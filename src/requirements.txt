@@ -1,0 +1,6 @@
+srt
+kafka-python
+scikit-learn
+babelfish
+subliminal
+IMDbPY
