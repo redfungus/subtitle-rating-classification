@@ -1,6 +1,6 @@
 # Realtime Subtitle Rating Classification
 
-This Repo contains the implementation of a subtitle rating classifier which was done as a project for the Data Intensive Computing course at KTH.
+This Repo contains the implementation of a subtitle rating classifier which was done as a project for the Data Intensive Computing course at KTH. The report of the project can be seen in `Real_time_Subtitle_Rating.pdf`.
 
 ## Implementation
 
